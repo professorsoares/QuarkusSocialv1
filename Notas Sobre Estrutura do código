@@ -1,0 +1,24 @@
+
+
+
+java
+	domínio/
+		domain/
+			model/
+				[Nome]	// Mapear a tabela do banco e a configuração de campos.
+			repository/
+				[Nome]Repository	// Ações de Banco, incluindo uma Query, por exemplo. Tudo feito pelo PanacheRepository. 
+		
+		rest/
+			dto/
+				Create[Nome]Request		// T
+				
+				Create[Nome]Response	// Classe para tratar o conteúdo a ser trabalhado / retornado.
+				
+				
+		
+			[Nome]Resource	// Tratamento das ações a serem realizadas
+			
+1.Cria a tabela no Banco
+2.Cria o Model
+3.

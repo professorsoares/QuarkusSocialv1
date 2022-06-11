@@ -1,0 +1,7 @@
+digital\extreme\quarkus01\quarkussocial\domain\repository\UserRepository.class
+digital\extreme\quarkus01\quarkussocial\rest\dto\CreateUserRequest.class
+digital\extreme\quarkus01\GreetingResource.class
+digital\extreme\quarkus01\quarkussocial\domain\model\UserOld.class
+digital\extreme\quarkus01\quarkussocial\rest\UserResourceOld.class
+digital\extreme\quarkus01\quarkussocial\rest\UserResource.class
+META-INF\panache-archive.marker

@@ -1,0 +1,1 @@
+{"swagger":"2.0","info":{"version":"Swagger 2.0","title":"http://localhost:8080"},"basePath":"","paths":{"/users":{"get":{"operationId":"","parameters":[],"responses":{"200":{}}},"post":{"operationId":"","parameters":[{"in":"body","name":"body","description":"Request body","required":true}]}}}}

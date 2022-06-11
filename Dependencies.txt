@@ -1,0 +1,3 @@
+mvnw quarkus:add-extension -Dextensions="hibernate-validator"
+
+mvnw quarkus:add-extension -Dextensions="jdbc-h2,hibernate-or,hibernate-orm-panache,resteasy-jsonb"
